@@ -1,0 +1,195 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Var",
+      "name": "input",
+      "printedName": "input",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple5inputSSSgvp",
+      "mangledName": "$s6Simple5inputSSSgvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "question1",
+      "printedName": "question1",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9question1SSSgvp",
+      "mangledName": "$s6Simple9question1SSSgvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "question2",
+      "printedName": "question2",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9question2SSSgvp",
+      "mangledName": "$s6Simple9question2SSSgvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "question3",
+      "printedName": "question3",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9question3SSSgvp",
+      "mangledName": "$s6Simple9question3SSSgvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "question4",
+      "printedName": "question4",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9question4SSSgvp",
+      "mangledName": "$s6Simple9question4SSSgvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "question5",
+      "printedName": "question5",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple9question5SSSgvp",
+      "mangledName": "$s6Simple9question5SSSgvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    }
+  ],
+  "json_format_version": 6
+}
